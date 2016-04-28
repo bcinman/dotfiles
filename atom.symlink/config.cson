@@ -20,12 +20,12 @@
       "glacier-syntax"
     ]
   editor:
-    fontFamily: "Menlo"
+    fontFamily: "Inconsolata"
     invisibles: {}
     showIndentGuide: true
     softWrapAtPreferredLineLength: true
   "go-plus":
-    goPath: "/Users/holman/Code/go"
+    goPath: "/Users/bryan/Code/go"
   "release-notes":
     viewedVersion: "0.89.0"
   "spell-check":
